@@ -1,0 +1,6 @@
+{
+  "name": "Al-Madina Printing Press",
+  "description": "Professional printing press in Blue Area, Islamabad specializing in luxury wedding invitation cards, book printing, thesis binding, and corporate stationery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
